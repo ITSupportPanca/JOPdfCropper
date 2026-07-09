@@ -13,8 +13,8 @@ DEFAULT_PAPER_H_IN = 5.5
 # punya area "tidak bisa dicetak" (unprintable zone) di bagian paling
 # bawah kertas -- kalau margin bawah kekecilan, baris paling bawah
 # (misal garis tanda tangan) bisa kepotong walau PDF-nya sendiri sudah pas.
-MARGIN_TOP_PT = 6
-MARGIN_BOTTOM_PT = 26
+MARGIN_TOP_PT = 16
+MARGIN_BOTTOM_PT = 20
 MARGIN_LEFT_PT = 8
 MARGIN_RIGHT_PT = 8
 
